@@ -1,2 +1,3 @@
 https://example.com
 https://google.com
+https://rabbitmq-test.develop.gymshark.io

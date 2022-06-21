@@ -44,3 +44,8 @@ https://example.com
 https://google.com
 [1;32m200[0m
 {'Date': 'Tue, 21 Jun 2022 06:57:38 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '1P_JAR=2022-06-21-06; expires=Thu, 21-Jul-2022 06:57:38 GMT; path=/; domain=.google.com; Secure, AEC=AakniGM71TGwy4E1FPKrzqcjK9XU_Dp-ydZSJYy_4j8fAcVBiqpCnyB9Hls; expires=Sun, 18-Dec-2022 06:57:38 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=511=lZivjDrO774TtH2_4tBhlUtjsch5dPPNj43RqldDPIYw7wTxZCobn_HHY5jyuV-72BFPhchwpJrcfbExatjfl1980yaAPB89BxGHEsPgm0Bn_pm-Xgocn7TxFMpR-lk3oZ4La39KlRaE_sHTuIuMH8HAkbk3a-Iiwd00aDIPMOM; expires=Wed, 21-Dec-2022 06:57:38 GMT; path=/; domain=.google.com; HttpOnly', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"', 'Transfer-Encoding': 'chunked'}
+https://example.com
+[1;32m200[0m
+https://google.com
+[1;32m200[0m
+https://rabbitmq-test.develop.gymshark.io: 500 maybe
