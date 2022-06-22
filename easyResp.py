@@ -19,7 +19,7 @@ def fileparser(filename):
         try:
             line = line.rstrip()
             read = requests.get(line)
-            print(line)
+            print(line,timeout=5)
             print(green(read.status_code,['bold']))
             if args.header=='y':
                 print(read.headers)
